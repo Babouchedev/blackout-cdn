@@ -1,0 +1,232 @@
+LISTE DES FICHIERS ATTENDUS PAR LE CODE
+Genere le 2026-09-09 depuis le code de la base
+Total : 156 fichiers nommes
+
+
+== BoutiqueVehicules/ ==
+   arrow_left.webp
+
+== Discord/ ==
+   11871954819531448521187719711790727268image.webp
+   11871954819531448521187719763242254376image.webp
+   11871954819531448521187719811581628517image.webp
+   11871954819531448521187719857416962099image.webp
+   11871954819531448521187719913427714168image.webp
+   11871954819531448521187719957442744320image.webp
+   11871954819531448521187720076607098911image.webp
+   11871954819531448521187720160707084380image.webp
+   11871954819531448521187720276474073248image.webp
+   11871954819531448521187720365225545800image.webp
+   11871954819531448521187720396473126943image.webp
+   11871954819531448521187720455784763454image.webp
+   11871954819531448521187720545312198726image.webp
+   11871954819531448521187720600668610681image.webp
+   11871954819531448521187720700258164756image.webp
+
+== PPA/ ==
+   background.webp
+
+== assets/autoecole/ ==
+   abdel.webp
+
+== assets/banking/ ==
+   back.png
+   card.png
+   card_society.png
+   logo.png
+
+== assets/boutique/icons/ ==
+   IconColor.svg
+   arrow.svg
+   arrowleft.svg
+   licence_plate.svg
+   performence.svg
+
+== assets/catalogues/headers/ ==
+   laboratoires.webp
+
+== assets/character-creator/ ==
+   banner.png
+
+== assets/creation-personnage/ ==
+   croix-resize.png
+
+== assets/gestion-propriete/ ==
+   header.webp
+
+== assets/gestion-serveur/ ==
+   car.svg
+   clothe.svg
+
+== assets/gestion-serveur/crew/ ==
+   car.svg
+   house.svg
+   name.svg
+   photo.svg
+   reward.svg
+   user.svg
+
+== assets/gestion-serveur/ ==
+   edit.svg
+   food.svg
+   jewelry.svg
+   name.svg
+   plus.svg
+   question.svg
+   type.svg
+   weapon.svg
+
+== assets/icons/ ==
+   left.webp
+   menu.webp
+
+== assets/inventory/ ==
+   backpack.webp
+   hunger.webp
+   thirst.webp
+
+== assets/jobmenu/ ==
+   eboueur_header.webp
+   eboueur_vehicle.webp
+   pizza_header.webp
+   pizza_vehicle.webp
+   train_header.webp
+   train_vehicle.webp
+   tram_header.webp
+   tram_vehicle.webp
+
+== assets/labo/ ==
+   actif.webp
+   inactif.webp
+   terminer.webp
+
+== assets/map/satelite/{z}/{x}/ ==
+   {y}.jpg
+
+== assets/premium/ ==
+   bg_premium.webp
+   premium.webp
+
+== assets/radialmenus/ ==
+   Tablette.svg
+   arrow.webp
+   back.svg
+   billet.svg
+   bpm.svg
+   car.svg
+   checkmark.svg
+   cinema.svg
+   crossed_eye.svg
+   engine.svg
+   fire_extinguisher.svg
+   fire_station.svg
+   gestion.svg
+   health_paper.svg
+   health_tool.svg
+   house.svg
+   leave.svg
+   megaphone.svg
+   mission.svg
+   object.svg
+   paper.svg
+   pharmacy.svg
+   player.svg
+   police.svg
+   police_logo.svg
+   repair.svg
+   road.svg
+   sponge.svg
+   territoire.svg
+   top_paper.svg
+
+== assets/tabletteIllegale/ ==
+   calendar.webp
+   checkmark_yellow.webp
+   disconnect.webp
+   empreinte.svg
+   home.webp
+   horloge.webp
+   jalon.webp
+   levelup.webp
+   map.webp
+   ordered_bg.webp
+   profile.webp
+   shop.webp
+   tablette.webp
+
+== assets/xmenu/ ==
+   checkoff.svg
+   checkon.svg
+
+== assets/xmenu/headers/ ==
+   admin.png
+
+== characterCreator/parents/ ==
+   Adrian.png
+
+== concessvoiture/ ==
+   fast-forward.webp
+
+== icons/ ==
+   logo.webp
+
+== old_a_trier/Concessionnaire/Voiture/ ==
+   bison.webp
+
+== old_a_trier/Discord/ ==
+   10493763812109926601206612668497006632MINE.webp
+   10493763812109926601206612952321495100bannieregopostal1.webp
+   12015580604732580841202581456879230976image2removebgpreview.webp
+   4985290747179171951144393442533838939image.webp
+
+== old_a_trier/autoecole/ ==
+   logout.webp
+   questions-et-reponses.webp
+   symbole-dinterface-daugmentation-du-volume.webp
+   tablette.webp
+   verifier.webp
+
+== old_a_trier/icons/ ==
+   bouton_bleu.webp
+   bouton_rouge.webp
+   bouton_vert.webp
+   grille.webp
+
+== old_a_trier/other/ ==
+   header_createWeazel.webp
+
+== old_a_trier/radio/ ==
+   off.ogg
+   on.ogg
+
+== old_a_trier/vNotif/ ==
+   SAMS.webp
+   g6.webp
+   gouv.webp
+   justice.webp
+   lsfd.webp
+   lspd.webp
+   lssd.webp
+   usss.webp
+
+== vehicules/ ==
+   baller.webp
+   champion.webp
+   emperor.webp
+   euros.webp
+   everon.webp
+   gbschlagensp.webp
+   impaler6.webp
+   lpchopper.webp
+   oracle2.webp
+   sancyb4.webp
+   sandking2.webp
+   stretch.webp
+   surfer2.png
+   vincent2.webp
+
+== vision-cdn-v1/icons/ ==
+   logo.webp
+
+== vision-cdn-v2/assets/boutique/ ==
+   vcoin.png
