@@ -1,0 +1,52 @@
+========================================================================
+  CRÉATION DE PERSONNAGE — ce que le CDN doit contenir
+========================================================================
+Placeholders posés partout (carrés gris). À remplacer par des VRAIES
+vignettes = captures d'écran du ped GTA sur fond vert, recadrées.
+Outil recommandé : "greenscreener" (FiveM) — spawn ped, applique chaque
+variation, screenshot auto, crop auto. Il n'y a PAS de raccourci : c'est
+un batch de captures en jeu (ou récupérer le pack d'origine de Vision).
+
+Extension : .webp partout (sauf parents/ = .png)
+Genre : dossiers "Homme" et "Femme"
+ID : commence à 0, un fichier par variation (0.webp, 1.webp, ...)
+
+------------------------------------------------------------------------
+VISAGE / STYLE   (par genre)
+------------------------------------------------------------------------
+assets/catalogues/barber/<G>/Coupes/<id>.webp        Coiffures      (~0-73 H / ~0-78 F)
+assets/catalogues/barber/<G>/Barbes/<id>.webp        Barbes         (Homme, ~0-28)
+assets/catalogues/shenails/<G>/PilositeTorse/<id>.webp Pilosité torse (Homme, ~0-16)
+assets/catalogues/shenails/<G>/Maquillage/<id>.webp   Maquillage     (~0-74)
+assets/catalogues/shenails/<G>/RougeLevre/<id>.webp   Rouge à lèvres (~0-9)
+assets/catalogues/shenails/<G>/Sourcils/<id>.webp     Sourcils       (~0-33)
+assets/catalogues/shenails/<G>/Blush/<id>.webp        Fard à joues   (~0-6)
+assets/catalogues/crea-perso/<G>/TacheCutanee/<id>.webp Tâches       (~0-11)
+assets/catalogues/crea-perso/<G>/MarquePeau/<id>.webp Marques peau   (~0-14)
+assets/catalogues/crea-perso/<G>/Acne/<id>.webp       Acné           (0-24)
+assets/catalogues/crea-perso/<G>/Teint/<id>.webp      Teint          (~0-11)
+
+------------------------------------------------------------------------
+HÉRITAGE (parents)   -> characterCreator/parents/<Nom>.png
+------------------------------------------------------------------------
+21 papas : Benjamin Daniel Joshua Noah Andrew Juan Alex Isaac Evan Ethan
+           Vincent Angel Diego Adrian Gabriel Michael Santiago Kevin Louis
+           Samuel Anthony
+21 mamans: Hannah Aubrey Jasmine Gisele Amelia Isabella Zoe Ava Camila
+           Violet Sophia Evelyn Nicole Ashley Grace Brianna Natalie Olivia
+           Elizabeth Charlotte Emma
+
+------------------------------------------------------------------------
+VÊTEMENTS (début de la création)
+------------------------------------------------------------------------
+Icônes par défaut :  assets/catalogues/binco/<G>/{torso2,leg,shoes,hat,glasses,bag}.webp
+Vignettes détaillées (optionnel, gros volume) :
+  assets/catalogues/binco/<G>/clothing/<prefix>/<id>.webp   (+ _<z>.webp par texture)
+  assets/catalogues/binco/<G>/props/<prefix>/<id>.webp
+  prefixes : leg shoes torso2 undershirt arms bag (clothing) / hat glasses (props)
+
+------------------------------------------------------------------------
+DIVERS
+------------------------------------------------------------------------
+assets/creation-personnage/croix-resize.png   -> icône "Aucun"
+old_a_trier/Discord/4985290747179171951144393442533838939image.webp -> icône "Cou"
