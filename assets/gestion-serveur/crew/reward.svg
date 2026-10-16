@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect width="64" height="64" rx="6" fill="#3a3d44"/><text x="32" y="38" font-family="sans-serif" font-size="26" fill="#6b6f78" text-anchor="middle">?</text></svg>
+<svg width="8" height="7" viewBox="0 0 8 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.48462 2.36122L5.4778 2.49167L5.46356 2.45047L5.4384 2.37765L5.48435 2.3481C5.48442 2.35878 5.4845 2.36342 5.48462 2.36122ZM5.17059 0.815825L4.81793 0.804408L4.81593 0.8H5.48356V0.825958L5.17059 0.815825ZM3.99999 3.23764L4.2584 3.37819L4 3.44335L3.74156 3.37818L3.99999 3.23764ZM3.0748 6.12142C3.47694 5.94515 3.82352 5.63785 4 5.2263C4.17649 5.63785 4.52306 5.94515 4.9252 6.12142V6.2H3.0748V6.12142ZM2.5154 2.36226C2.51551 2.36441 2.51559 2.35938 2.51565 2.34806L2.5616 2.37761L2.53644 2.45045L2.52202 2.49217L2.5154 2.36226ZM3.18414 0.8L3.18214 0.804408L2.82948 0.815825L2.51647 0.82596V0.8H3.18414Z" fill="black" stroke="url(#paint0_linear_9965_97)" stroke-width="1.6"/>
+<defs>
+<linearGradient id="paint0_linear_9965_97" x1="4" y1="0" x2="4" y2="7" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#C2C2C2"/>
+</linearGradient>
+</defs>
+</svg>
