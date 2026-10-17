@@ -1,0 +1,2 @@
+Carte Atlas de GTA V (tuiles 256 px, nom zoom_x_y.jpg, zooms 0 a 5)
+Source : https://github.com/Flamm64/GTA-V-World-Map - "GTA V World Map created by Zslash aKa Martin Floden" (usage libre, merci a lui).
